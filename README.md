@@ -336,3 +336,5 @@ This project is for demonstration purposes. Feel free to use and modify as neede
 **Happy coding! 🚀**
 
 For questions or issues, check the Clerk documentation: https://clerk.com/docs
+
+Ghost Protocol : ON
